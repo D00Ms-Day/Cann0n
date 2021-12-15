@@ -8,7 +8,7 @@ INSTALLATION
 
 apt update && apt upgrade
 
-Clone the repo using git clone
+https://github.com/D00Ms-Day/Cann0n.git
 
 cd cannon
 
